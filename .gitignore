@@ -1,2 +1,5 @@
 .vscode/settings.json
 读我.*
+*.exe
+obj/
+bin/
